@@ -4,7 +4,7 @@ I'm a B.Tech student with a passion for web development and data science.
 
 🔭 I’m currently sharpening my skills in web development and data science.
 
-🌱 I’m learning machine learning algorithms and advanced JavaScript frameworks.
+🌱 I’m learning Gan AI and advanced GEN AI frameworks.
 
 💬 Ask me about anything related to programming, I'm always happy to help!
 
