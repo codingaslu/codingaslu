@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammed Aslam A! 👋
 
-I'm a B.Tech student with a passion for web development and data science.
+I'm a Gen AI Dev
 
 🔭 I’m currently sharpening my skills in web development and data science.
 
