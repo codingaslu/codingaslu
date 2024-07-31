@@ -1,12 +1,8 @@
-# Hi there, I'm Muhammed Aslam A! 👋
+🌱 I’m currently learning AI Agents and LLM Evualtion
 
-I'm a Gen AI Dev
+👯 I’m looking to collaborate on AI And LLM Projects
 
-🔭 I’m currently sharpening my skills in web development and data science.
-
-🌱 I’m learning Gan AI and advanced GEN AI frameworks.
-
-💬 Ask me about anything related to programming, I'm always happy to help!
+💬  Ask me only After you already Googled it!, I'm always happy to help!
 
 📫 Reach me at: muhammedaslam179@gmail.com
 
