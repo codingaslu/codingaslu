@@ -1,4 +1,4 @@
-🌱 I’m currently learning AI Agents and LLM Evualtion
+🌱 I’m currently learning AI Agents and LLM Evaluation
 
 👯 I’m looking to collaborate on AI And LLM Projects
 
