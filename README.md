@@ -1,143 +1,128 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9BF7&center=true&vCenter=true&width=600&height=100&lines=Muhammed+Aslam+A;AI+%7C+ML+Engineer;LLM+%26+GenAI+Specialist" alt="Typing SVG" />
-</div>
+  
+  [![Email](https://img.shields.io/badge/Email-muhammedaslam179%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:muhammedaslam179@gmail.com)
+  [![Phone](https://img.shields.io/badge/Phone-%2B91%209037457306-green?style=flat-square&logo=whatsapp)](tel:+919037457306)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/codingaslu)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/codingaslu)
+  [![Followers](https://img.shields.io/github/followers/codingaslu?label=Followers&style=flat-square)](https://github.com/codingaslu?tab=followers)
+  ![Profile Views](https://komarev.com/ghpvc/?username=codingaslu&color=brightgreen&style=flat-square&label=Profile+Views)
 
-<p align="center">
-  <a href="mailto:muhammedaslam179@gmail.com"><img src="https://img.shields.io/badge/Email-muhammedaslam179%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="tel:+919037457306"><img src="https://img.shields.io/badge/Phone-%2B91%209037457306-green?style=flat-square&logo=whatsapp"></a>
-  <a href="https://linkedin.com/in/codingaslu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/codingaslu"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
-  <a href="https://github.com/codingaslu?tab=followers"><img src="https://img.shields.io/github/followers/codingaslu?label=Followers&style=flat-square"></a>
-  <img src="https://komarev.com/ghpvc/?username=codingaslu&color=brightgreen&style=flat-square&label=Profile+Views" alt="profile views" />
-</p>
-
-<div align="center">
-  
-  ---
-  
-  ### 🤖 AI Engineer & Founder 🚀
-  
-  ---
-  
+  ### **AI Engineer & Founder of ContextGram** 🚀
 </div>
 
 ## 👨‍💻 About Me
 
-> Founder of ContextGram and a results-driven AI Engineer with expertise in developing cutting-edge AI solutions, including LLM-based systems, intelligent agents, chatbots, and document processing applications. I'm passionate about leveraging generative AI to solve complex problems.
+I'm a results-driven AI Engineer specialized in developing cutting-edge AI solutions, with particular expertise in:
 
-- 🔭 Currently building **ContextGram** - GenAI-powered email management software
-- 🌱 Learning **AI Agents orchestration, vector database optimization, and RAG architectures**
-- 👯 Looking to collaborate on **innovative AI and LLM projects with real-world impact**
-- 💬 Ask me about **Generative AI, LLMs, AI Agents, Vector DBs, and Retrieval Systems**
-- 📫 How to reach me: **muhammedaslam179@gmail.com**
-- ⚡ Fun fact: **I believe in "Google it first, then ask!" philosophy**
+- 🤖 Large Language Models (LLMs) & Generative AI systems
+- 🧠 AI Agents & Autonomous systems
+- 🔍 Retrieval-Augmented Generation (RAG) architectures
+- 🗄️ Vector databases & semantic search
+- 📊 Document intelligence & processing
+
+Currently building **[ContextGram](https://github.com/codingaslu)** - a GenAI-powered email management platform that provides contextual insights, smart composition, and automated workflows for efficient email handling.
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingaslu&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" />
+</div>
+
+## 🔭 Current Focus
+
+- 🛠️ Building & scaling ContextGram's AI capabilities
+- 📚 Researching advanced RAG techniques & vector DB optimization
+- 🧩 Experimenting with AI agent orchestration frameworks
+- 🌐 Developing semantic search algorithms for enterprise applications
+
+## 💼 Professional Experience
+
+### Founder & AI Engineer — ContextGram
+*Mar 2024 - Present*
+
+Leading the development of an innovative email management platform powered by generative AI:
+
+- Designed & implemented a contextual retrieval system for intelligent email processing
+- Developed a custom RAG pipeline for generating personalized email responses
+- Built smart workflows that automate routine email tasks using LLM-based classification
+- Created an intuitive UI for AI-assisted email composition & management
+
+### Generative AI Engineer — Shark AI Solutions
+*Internship | Sept 2023 - Mar 2024*
+
+- Architected a healthcare chatbot using domain-specific RAG techniques for medical consultations
+- Engineered data pipelines for processing & embedding specialized medical knowledge
+- Developed multi-modal document Q&A systems with text & image response capabilities
+- Fine-tuned multiple transformer models (Albert, DeBERTa, RoBERTa, Flan T5) for domain-specific tasks
+- Created a cryptocurrency analysis agent integrating real-time market data with contextual reasoning
+
+### Marketing Intern — SpeakApp Social Media
+*Jan 2022 - Mar 2022*
+
+- Contributed to digital marketing strategy & content creation
+- Analyzed user engagement metrics & assisted in campaign optimization
 
 ## 🎓 Education
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingaslu&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" />
 
 **Bachelor of Technology (B.Tech)** in Computer Science and Engineering  
 *College of Engineering and Management, Punnapra, Alappuzha*  
 2020 - 2024
 
-## 💼 Professional Experience
-
-### 🔹 Founder / AI Engineer — ContextGram
-*Mar 2024 - Present*
-
-- 📧 Built a GenAI-powered email management software from scratch
-- 💡 Developed contextual AI replies and smart email composition features
-- 📝 Implemented document-based AI workflows for email handling
-- 📊 Managed end-to-end product development and deployment
-
-### 🔹 Generative AI Engineer — Shark AI Solutions
-*Internship (Sept 2023 - Mar 2024)*
-
-- 🏥 Architected and implemented an advanced healthcare chatbot using LLMs for medical consultations
-- 🔄 Engineered a robust data pipeline for ingesting and processing expert medical knowledge from various formats into vector databases
-- 📝 Developed a document Q&A system with multi-modal (text and image) response capabilities
-- 🧠 Fine-tuned multiple pre-trained models (Albert, DeBERTa, RoBERTa, Flan T5, ELECTRA) for domain-specific tasks
-- ☁️ Deployed production-ready solutions using FastAPI, Docker, and Azure Container services
-- 💰 Built a cryptocurrency agent integrating real-time market data with contextual analysis
-
-### 🔹 Marketing Intern — SpeakApp Social Media
-*Jan 2022 - Mar 2022*
-
-- 📊 Contributed to marketing strategy development and implementation for a social media platform
-- 📱 Created engaging digital content and assisted in improving brand visibility and user engagement
-
-## 🛠️ Tech Stack
+## 🛠️ Technical Expertise
 
 <table>
   <tr>
-    <td align="center"><b>Category</b></td>
-    <td align="center"><b>Technologies</b></td>
-  </tr>
-  <tr>
-    <td align="center">Core Languages</td>
-    <td>
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">GenAI & ML</td>
+    <td><b>🧠 AI/ML Frameworks</b></td>
     <td>
       <img src="https://img.shields.io/badge/-LangChain-41BDF5?style=flat-square&logo=chainlink&logoColor=white" alt="Langchain" />
       <img src="https://img.shields.io/badge/-LlamaIndex-FF61F6?style=flat-square" alt="LlamaIndex" />
-      <img src="https://img.shields.io/badge/-Haystack-00B4D8?style=flat-square" alt="Haystack" />
       <img src="https://img.shields.io/badge/-HuggingFace-FF9D00?style=flat-square&logo=huggingface&logoColor=white" alt="HuggingFace" />
       <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/-Haystack-00B4D8?style=flat-square" alt="Haystack" />
     </td>
   </tr>
   <tr>
-    <td align="center">AI Agents</td>
+    <td><b>🤖 Agent Frameworks</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Autogen-00A36C?style=flat-square" alt="Autogen" />
-      <img src="https://img.shields.io/badge/-CrewAI-FF4500?style=flat-square" alt="CrewAI" />
       <img src="https://img.shields.io/badge/-LangGraph-5A45FF?style=flat-square" alt="LangGraph" />
+      <img src="https://img.shields.io/badge/-CrewAI-FF4500?style=flat-square" alt="CrewAI" />
+      <img src="https://img.shields.io/badge/-Autogen-00A36C?style=flat-square" alt="Autogen" />
       <img src="https://img.shields.io/badge/-AgentTops-FFD700?style=flat-square" alt="AgentTops" />
     </td>
   </tr>
   <tr>
-    <td align="center">Web Development</td>
+    <td><b>🗄️ Vector Stores</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/-Jinja2-B41717?style=flat-square" alt="Jinja2" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">Databases & Storage</td>
-    <td>
-      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       <img src="https://img.shields.io/badge/-Pinecone-000000?style=flat-square" alt="Pinecone" />
-      <img src="https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat-square" alt="SQLAlchemy" />
+      <img src="https://img.shields.io/badge/-Chroma-9370DB?style=flat-square" alt="Chroma" />
+      <img src="https://img.shields.io/badge/-Qdrant-FF4154?style=flat-square" alt="Qdrant" />
+      <img src="https://img.shields.io/badge/-Weaviate-2196F3?style=flat-square" alt="Weaviate" />
     </td>
   </tr>
   <tr>
-    <td align="center">Deep Learning</td>
+    <td><b>💻 Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-CNN-FF6F00?style=flat-square" alt="CNN" />
-      <img src="https://img.shields.io/badge/-RNN-FF8F00?style=flat-square" alt="RNN" />
-      <img src="https://img.shields.io/badge/-LSTM-FFA000?style=flat-square" alt="LSTM" />
-      <img src="https://img.shields.io/badge/-GPT--n-FFB300?style=flat-square" alt="GPT-n" />
-      <img src="https://img.shields.io/badge/-Transformers-652CD1?style=flat-square" alt="Transformers" />
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
     </td>
   </tr>
   <tr>
-    <td align="center">DevOps & Tools</td>
+    <td><b>🌐 Web Development</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
+      <img src="https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>☁️ DevOps & Cloud</b></td>
     <td>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
-      <img src="https://img.shields.io/badge/-REST_API-009688?style=flat-square" alt="REST API" />
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
     </td>
   </tr>
 </table>
@@ -146,115 +131,123 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">📧 ContextGram</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/-LangChain-41BDF5?style=for-the-badge" alt="LangChain" />
-        <img src="https://img.shields.io/badge/-Vector_DB-6933FF?style=for-the-badge" alt="Vector DB" />
-        <img src="https://img.shields.io/badge/-LLMs-FF5733?style=for-the-badge" alt="LLMs" />
-      </div>
-      <p align="center">
-        A GenAI-powered email management software that provides contextual insights, smart composition, and automated workflows.
+    <td>
+      <h3>📧 ContextGram: AI-Powered Email Management</h3>
+      <p>
+        A comprehensive GenAI platform that transforms email workflows through intelligent processing, contextual understanding, and automated responses.
       </p>
-      <p align="center">
-        <strong>Key Features:</strong>
-        <br>• Contextual AI email replies
-        <br>• Smart email composition with AI assistance
-        <br>• Document-based workflows for email management
-        <br>• End-to-end email processing automation
+      <p>
+        <b>Technical Highlights:</b>
+        <ul>
+          <li>Built a custom RAG pipeline using LangChain for contextual email response generation</li>
+          <li>Implemented semantic chunking for more accurate email context retrieval</li>
+          <li>Developed an LLM-based classification system for email intent recognition</li>
+          <li>Created a vector embedding system optimized for email content retrieval</li>
+        </ul>
       </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏥 Medical Chatbot Using Generative AI</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/-Llama_2-FF4500?style=for-the-badge" alt="Llama 2" />
-        <img src="https://img.shields.io/badge/-Pinecone-000000?style=for-the-badge" alt="Pinecone" />
-        <img src="https://img.shields.io/badge/-Langchain-41BDF5?style=for-the-badge" alt="Langchain" />
-      </div>
-      <p align="center">
-        An advanced healthcare chatbot designed to provide accurate medical information with context-aware responses and domain-specific knowledge.
-      </p>
-      <p align="center">
-        <strong>Key Features:</strong>
-        <br>• Medical knowledge embedding and retrieval
-        <br>• Context-aware dialogue management
-        <br>• Symptom analysis and guidance
-        <br>• Clinical information extraction
+      <p>
+        <b>Technologies:</b> LangChain, Pinecone, OpenAI API, Vue.js, FastAPI
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">💰 Crypto Agentic RAG</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/-LangGraph-5A45FF?style=for-the-badge" alt="LangGraph" />
-        <img src="https://img.shields.io/badge/-Pinecone-000000?style=for-the-badge" alt="Pinecone" />
-        <img src="https://img.shields.io/badge/-Langchain-41BDF5?style=for-the-badge" alt="Langchain" />
-      </div>
-      <p align="center">
-        An intelligent agent-based system for cryptocurrency analysis and information retrieval with intent-based query processing.
+    <td>
+      <h3>🏥 MediChat: Advanced Healthcare Conversational AI</h3>
+      <p>
+        An intelligent healthcare assistant leveraging domain-specific knowledge embeddings to provide accurate medical information with context-aware responses.
       </p>
-      <p align="center">
-        <strong>Key Features:</strong>
-        <br>• Intent recognition and classification
-        <br>• Real-time cryptocurrency data integration
-        <br>• Context-aware RAG architecture
-        <br>• Custom agent monitoring with AgentTops
+      <p>
+        <b>Technical Highlights:</b>
+        <ul>
+          <li>Designed a specialized RAG architecture for medical knowledge retrieval</li>
+          <li>Implemented a validation mechanism for ensuring medical information accuracy</li>
+          <li>Built a context window management system for maintaining conversation history</li>
+          <li>Created a HIPAA-compliant data processing pipeline for medical records</li>
+        </ul>
+      </p>
+      <p>
+        <b>Technologies:</b> Llama 2, Pinecone, LangChain, FastAPI, Docker
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">📝 Document Q&A System</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/-LlamaIndex-FF61F6?style=for-the-badge" alt="LlamaIndex" />
-        <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge" alt="Azure" />
-        <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge" alt="FastAPI" />
-      </div>
-      <p align="center">
-        A sophisticated document analysis system capable of extracting information from documents and generating both text and image-based responses.
+  </tr>
+  <tr>
+    <td>
+      <h3>💰 CryptoInsight: Intelligent Cryptocurrency Analysis</h3>
+      <p>
+        An agent-based system that combines real-time market data with contextual analysis to provide intelligent insights on cryptocurrency trends and investments.
       </p>
-      <p align="center">
-        <strong>Key Features:</strong>
-        <br>• Multi-format document processing
-        <br>• Question-answering with context management
-        <br>• Multi-modal response generation
-        <br>• Containerized deployment on Azure
+      <p>
+        <b>Technical Highlights:</b>
+        <ul>
+          <li>Built a multi-agent system using LangGraph for specialized cryptocurrency analysis</li>
+          <li>Integrated real-time market data APIs with retrieval-augmented generation</li>
+          <li>Implemented intent classification for routing queries to specialized processing paths</li>
+          <li>Developed a context-aware reasoning system for investment insights</li>
+        </ul>
+      </p>
+      <p>
+        <b>Technologies:</b> LangGraph, Pinecone, CrewAI, AgentTops, FastAPI
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📝 DocuMind: Multi-Modal Document Intelligence</h3>
+      <p>
+        A sophisticated document analysis system capable of extracting information from various document formats and generating both text and image-based responses.
+      </p>
+      <p>
+        <b>Technical Highlights:</b>
+        <ul>
+          <li>Created a multi-format document processing pipeline supporting PDF, DOCX, and images</li>
+          <li>Implemented a hybrid retrieval system combining text and image embeddings</li>
+          <li>Built a multi-modal response generation system for comprehensive answers</li>
+          <li>Developed a containerized microservice architecture for scalable deployment</li>
+        </ul>
+      </p>
+      <p>
+        <b>Technologies:</b> LlamaIndex, Azure Cognitive Services, FastAPI, Docker
       </p>
     </td>
   </tr>
 </table>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codingaslu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=codingaslu&theme=tokyonight" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codingaslu&theme=nord&column=7&no-frame=true" />
-</p>
-
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Email Intelligence with GenAI: The ContextGram Story](https://github.com/codingaslu)
-- [Building Advanced RAG Systems with LangChain and Pinecone](https://github.com/codingaslu)
-- [Understanding LLM Evaluation Metrics: Beyond Perplexity](https://github.com/codingaslu)
-<!-- BLOG-POST-LIST:END -->
-
-## 🗣️ Languages
-- 🇬🇧 English (Fluent)
-- 🇮🇳 Malayalam (Native)
-
-## 🤝 Connect & Collaborate
-
-I'm always interested in connecting with fellow developers and working on exciting AI projects. Feel free to reach out if you'd like to collaborate or just chat about the latest in AI technology!
+## 📊 GitHub Stats
 
 <div align="center">
-  
-  ⭐️ From [codingaslu](https://github.com/codingaslu)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codingaslu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=codingaslu&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codingaslu&theme=nord&column=7&no-frame=true" />
+</div>
+
+## 📚 Recent Publications & Blog Posts
+
+- [**Building Email Intelligence with GenAI: The ContextGram Approach**](https://github.com/codingaslu)  
+  *Exploring how generative AI can transform email workflows through contextual understanding and intelligent automation.*
+
+- [**Advanced RAG Architectures: Beyond Basic Retrieval**](https://github.com/codingaslu)  
+  *A technical deep-dive into sophisticated RAG implementations using LangChain and Pinecone.*
+
+- [**Evaluating LLM Performance: Metrics Beyond Perplexity**](https://github.com/codingaslu)  
+  *Analyzing practical methods for assessing and improving LLM outputs in production environments.*
+
+## 📫 Let's Connect
+
+I'm always interested in collaborating on innovative AI projects and discussing the latest developments in generative AI and LLMs. Feel free to reach out!
+
+<div align="center">
+  <a href="mailto:muhammedaslam179@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/codingaslu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/codingaslu"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"></a>
+</div>
+
+---
+
+<div align="center">
+  ⭐️ From <a href="https://github.com/codingaslu">codingaslu</a>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-  
 </div>
