@@ -51,7 +51,7 @@
 - 📊 Managed end-to-end product development and deployment
 
 ### 🔹 Generative AI Engineer — Shark AI Solutions
-*Internship (Sept 2023 - Mar 2024)*
+*Internship (Sept 2023 - Present)*
 
 - 🏥 Architected and implemented an advanced healthcare chatbot using LLMs for medical consultations
 - 🔄 Engineered a robust data pipeline for ingesting and processing expert medical knowledge from various formats into vector databases
