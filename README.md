@@ -165,6 +165,44 @@
       </p>
     </td>
     <td width="50%">
+      <h3 align="center">🤖 AI Sales Agent</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-RAG-5A45FF?style=for-the-badge" alt="RAG" />
+        <img src="https://img.shields.io/badge/-Stripe-0089D6?style=for-the-badge" alt="Stripe" />
+        <img src="https://img.shields.io/badge/-Calendly-FF4500?style=for-the-badge" alt="Calendly" />
+      </div>
+      <p align="center">
+        An AI-driven sales agent designed for eCommerce, automating customer engagement, product recommendations, and payment processing.
+      </p>
+      <p align="center">
+        <strong>Key Features:</strong>
+        <br>• AI-powered customer interactions
+        <br>• Personalized product recommendations
+        <br>• Automated consultation scheduling
+        <br>• Stripe-powered payment facilitation
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💰 AI Sales Outreach Automation</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-LangGraph-5A45FF?style=for-the-badge" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/-Google_Gemini-000000?style=for-the-badge" alt="Google Gemini" />
+        <img src="https://img.shields.io/badge/-HubSpot-41BDF5?style=for-the-badge" alt="HubSpot" />
+      </div>
+      <p align="center">
+        A fully automated AI-driven outreach system that integrates with CRMs, researches leads, and generates personalized outreach materials.
+      </p>
+      <p align="center">
+        <strong>Key Features:</strong>
+        <br>• Multi-CRM integration (HubSpot, Airtable, Google Sheets)
+        <br>• AI-powered lead research and qualification
+        <br>• Personalized email and report generation
+        <br>• Automated interview script preparation
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">🏥 Medical Chatbot Using Generative AI</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/-Llama_2-FF4500?style=for-the-badge" alt="Llama 2" />
