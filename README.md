@@ -165,6 +165,26 @@
       </p>
     </td>
     <td width="50%">
+      <h3 align="center">🚀 Local RAG Researcher with DeepSeek R1 & LangGraph</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-LangGraph-5A45FF?style=for-the-badge" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/-DeepSeek_R1-FF4500?style=for-the-badge" alt="DeepSeek R1" />
+        <img src="https://img.shields.io/badge/-ChromaDB-0089D6?style=for-the-badge" alt="ChromaDB" />
+      </div>
+      <p align="center">
+        A local adaptive RAG research agent built with LangGraph and DeepSeek R1, designed for gathering, analyzing, and summarizing information efficiently.
+      </p>
+      <p align="center">
+        <strong>Key Features:</strong>
+        <br>• Dynamic search through local documents
+        <br>• Advanced insight extraction using DeepSeek R1
+        <br>• Real-time web search via Tavily API
+        <br>• Structured report generation with predefined formats
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">🤖 AI Sales Agent</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/-RAG-5A45FF?style=for-the-badge" alt="RAG" />
@@ -182,8 +202,6 @@
         <br>• Stripe-powered payment facilitation
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">💰 AI Sales Outreach Automation</h3>
       <div align="center">
@@ -202,6 +220,8 @@
         <br>• Automated interview script preparation
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🏥 Medical Chatbot Using Generative AI</h3>
       <div align="center">
@@ -220,8 +240,6 @@
         <br>• Clinical information extraction
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">💰 Crypto Agentic RAG</h3>
       <div align="center">
@@ -240,6 +258,8 @@
         <br>• Custom agent monitoring with AgentTops
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">📝 Document Q&A System</h3>
       <div align="center">
