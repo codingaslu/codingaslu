@@ -278,6 +278,24 @@
         <br>• Containerized deployment on Azure
       </p>
     </td>
+    <td width="50%">
+      <h3 align="center">🗣️ Gemini Voice Chat</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-WebRTC-333333?style=for-the-badge" alt="WebRTC" />
+        <img src="https://img.shields.io/badge/-Google_Gemini-000000?style=for-the-badge" alt="Google Gemini" />
+        <img src="https://img.shields.io/badge/-Gradio-FF9900?style=for-the-badge" alt="Gradio" />
+      </div>
+      <p align="center">
+        A real-time voice interface for Google's Gemini AI model that allows natural conversations with Gemini using speech through WebRTC audio streaming.
+      </p>
+      <p align="center">
+        <strong>Key Features:</strong>
+        <br>• Real-time voice interaction with Gemini
+        <br>• Audio visualization with responsive waveform display
+        <br>• Multiple voice options (Puck, Charon, Kore, Fenrir, Aoede)
+        <br>• Low-latency response with WebRTC streaming
+      </p>
+    </td>
   </tr>
 </table>
 
