@@ -98,7 +98,7 @@
       <img src="https://img.shields.io/badge/-Autogen-00A36C?style=flat-square" alt="Autogen" />
       <img src="https://img.shields.io/badge/-CrewAI-FF4500?style=flat-square" alt="CrewAI" />
       <img src="https://img.shields.io/badge/-LangGraph-5A45FF?style=flat-square" alt="LangGraph" />
-      <img src="https://img.shields.io/badge/-AgentTops-FFD700?style=flat-square" alt="Agentops" />
+      <img src="https://img.shields.io/badge/-AgentOps-FFD700?style=flat-square" alt="AgentOps" />
     </td>
   </tr>
   <tr>
