@@ -317,7 +317,7 @@
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Email Intelligence with GenAI: The ContextGram Story](https://github.com/codingaslu)
+- [The Rise of Reasoning LLMs: DeepSeek R1 & OpenAI o1 Explained]([https://github.com/codingaslu](https://www.linkedin.com/pulse/rise-reasoning-llms-deepseek-r1-openai-o1-explained-muhammed-aslam-a-r3j9c/?trackingId=Q5oLv4l0QoCxuQD3GhyZ3g%3D%3D))
 - [Building Advanced RAG Systems with LangChain and Pinecone](https://github.com/codingaslu)
 - [Understanding LLM Evaluation Metrics: Beyond Perplexity](https://github.com/codingaslu)
 <!-- BLOG-POST-LIST:END -->
