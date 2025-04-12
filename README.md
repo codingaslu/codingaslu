@@ -39,7 +39,7 @@
 
 **Bachelor of Technology (B.Tech)** in Computer Science and Engineering  
 *College of Engineering and Management, Punnapra, Alappuzha*  
-2020 - 2024
+Graduated
 
 ## 💼 Professional Experience
 
@@ -52,7 +52,7 @@
 - 📊 Managed end-to-end product development and deployment
 
 ### 🔹 Generative AI Engineer — Shark AI Solutions
-*Internship (Sept 2023 - Present)*
+*(Sept 2023 - Present)*
 
 - 🏥 Architected and implemented an advanced healthcare chatbot using LLMs for medical consultations
 - 🔄 Engineered a robust data pipeline for ingesting and processing expert medical knowledge from various formats into vector databases
