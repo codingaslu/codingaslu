@@ -168,6 +168,26 @@ Graduated
       </p>
     </td>
     <td width="50%">
+      <h3 align="center">👁️ Ally Clone</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-GPT--4o-00A36C?style=for-the-badge" alt="GPT-4o" />
+        <img src="https://img.shields.io/badge/-Llama--4-652CD1?style=for-the-badge" alt="Llama-4" />
+        <img src="https://img.shields.io/badge/-LiveKit-FF4500?style=for-the-badge" alt="LiveKit" />
+      </div>
+      <p align="center">
+        An advanced voice & vision assistant specifically designed for blind and visually impaired users to help them better understand their surroundings.
+      </p>
+      <p align="center">
+        <strong>Key Features:</strong>
+        <br>• Privacy-aware dual vision model approach
+        <br>• Real-time response streaming with minimal latency
+        <br>• Voice-first design with natural conversation
+        <br>• Optimized descriptions for visually impaired users
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">🚀 Local RAG Researcher with DeepSeek R1 & LangGraph</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/-LangGraph-5A45FF?style=for-the-badge" alt="LangGraph" />
@@ -185,8 +205,6 @@ Graduated
         <br>• Structured report generation with predefined formats
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">🤖 AI Sales Agent</h3>
       <div align="center">
@@ -205,6 +223,8 @@ Graduated
         <br>• Stripe-powered payment facilitation
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">💰 AI Sales Outreach Automation</h3>
       <div align="center">
@@ -223,8 +243,6 @@ Graduated
         <br>• Automated interview script preparation
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">🏥 Medical Chatbot Using Generative AI</h3>
       <div align="center">
@@ -243,6 +261,8 @@ Graduated
         <br>• Clinical information extraction
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">💰 Crypto Agentic RAG</h3>
       <div align="center">
@@ -261,8 +281,6 @@ Graduated
         <br>• Custom agent monitoring with AgentTops
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">📝 Document Q&A System</h3>
       <div align="center">
@@ -281,6 +299,8 @@ Graduated
         <br>• Containerized deployment on Azure
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🗣️ Gemini Voice Chat</h3>
       <div align="center">
@@ -298,6 +318,9 @@ Graduated
         <br>• Multiple voice options (Puck, Charon, Kore, Fenrir, Aoede)
         <br>• Low-latency response with WebRTC streaming
       </p>
+    </td>
+    <td>
+      <!-- This cell is intentionally left empty for balanced layout -->
     </td>
   </tr>
 </table>
