@@ -15,7 +15,7 @@
   
   ---
   
-  ### 🤖 AI Engineer & Founder 🚀
+  ### 🤖 AI Engineer 🚀
   
   ---
   
