@@ -168,7 +168,7 @@ Graduated
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">👁️ Ally Clone</h3>
+      <h3 align="center">👁️Voice-Vision-Assistant-for-Blind</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/-GPT--4o-00A36C?style=for-the-badge" alt="GPT-4o" />
         <img src="https://img.shields.io/badge/-Llama--4-652CD1?style=for-the-badge" alt="Llama-4" />
