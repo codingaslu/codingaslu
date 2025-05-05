@@ -26,7 +26,7 @@
 > Founder of ContextGram and a results-driven AI Engineer with expertise in developing cutting-edge AI solutions, including LLM-based systems, intelligent agents, chatbots, and document processing applications. I'm passionate about leveraging generative AI to solve complex problems.
 
 - 🔭 Currently building **ContextGram** - GenAI-powered email management software
-- 🌱 Currently learning **MCP Implementation**
+- 🌱 Currently learning **MCP and A2A Implementation**
 - 🎯 Expertise **AI Agents orchestration, vector database optimization, and RAG architectures**
 - 👯 Looking to collaborate on **innovative AI and LLM projects with real-world impact**
 - 💬 Ask me about **Generative AI, LLMs, AI Agents, Vector DBs, and Retrieval Systems**
